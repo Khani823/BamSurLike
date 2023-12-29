@@ -21819,7 +21819,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicSounds:
   - name: BGM
-    clip: {fileID: 8300000, guid: 4559935c00ef8e94b846e2e03e39f0d0, type: 3}
+    clip: {fileID: 8300000, guid: fcf8eab1768e6904a9df0b4d47ee3d16, type: 3}
   sfxSounds:
   - name: Dead
     clip: {fileID: 8300000, guid: 291608b8d286e2a4580ff36324455ce2, type: 3}
